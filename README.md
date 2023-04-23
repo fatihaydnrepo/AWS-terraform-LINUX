@@ -3,6 +3,7 @@
 - VS Code uzantıları kullanarak yeni sanal makinenize ssh ile bağlanabilir ve Docker kurulumunuzu test edebilirsiniz. 
 Bu proje için kullanılan uzantılar aşağıda listelenmiştir:
 >Terraform (Anton Kulikov tarafından)
+>
 >Remote - SSH (Microsoft tarafından)
 
 - VS Code arayüzüyle bağlantı için ssh komut dosyaları içeren iki dosya bulunmaktadır.
